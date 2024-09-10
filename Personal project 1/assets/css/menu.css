@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.padding-reset{
+    padding: 0px 0px !important;
+    margin: 0px 0px !important;
+}
+
+.list-group-item.active {
+    z-index: 2;
+    color:#4169E1;
+    background-color: #fff ;
+    border: solid 2px;
+    border-color:#4169E1;
+}
+
+.fontstyle{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.list-group-item{
+    z-index: 2;
+    color: #6E7B8B;
+    background-color: #fff ;
+    border: solid 2px;
+    border-color:#4169E1;
+}
+
+i{
+    padding-right: 5px; 
+}
+
+.cor
+{
+    background-color: #82a5be;
+}
+
+.fontsize
+{
+    font-size: 11px;
+}
+
+.textitle
+{
+    color: #6E7B8B;
+}

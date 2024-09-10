@@ -1,0 +1,80 @@
+.width
+{
+    width: 250px;
+}
+
+i{
+    padding-right: 5px; 
+}
+
+.list-group-item.active {
+    z-index: 2;
+    color: #007bff;
+    background-color: #fff;
+    border-color: rgba(0,0,0,.125);
+}
+
+/* Header */
+
+.logo
+{
+    max-width: 150px;
+    min-width: 50px;
+}
+
+
+
+.minwidth
+{
+    margin-top: 80px;
+    width: 250px;
+}
+
+.width
+{
+    width: 250px;
+}
+
+.margin
+{
+    margin-top: 50px;
+}
+
+.cor
+{
+    background-color: orange;
+}
+
+.background
+{
+    background-image: url(../img/pizzaria.png);
+    padding: 150px;
+}
+
+.color
+{
+    background-color: lightgray;
+}
+
+.quantidade1{
+    float: right;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+.quantidade2{
+    max-width: 50px;
+    text-align: center;
+}
+
+.preco{
+    text-align: right;
+    font-size: 20px;
+
+}
+
+.tamanho{
+    max-width: 100px;
+    max-height: 100px;
+}
